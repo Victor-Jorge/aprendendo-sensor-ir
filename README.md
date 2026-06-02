@@ -1,4 +1,6 @@
-![Foto Esquematico arduino e sensor IR](https://github.com/Victor-Jorge/aprendendo-sensor-ir/blob/main/imagens/Esquema_arduino_sensor_IR.png))
+![Foto Esquematico arduino e sensor IR](https://github.com/Victor-Jorge/aprendendo-sensor-ir/blob/main/imagens/Esquema_arduino_sensor_IR.png)
+
+LINK DO PROJETO NO TINKERCAD: https://www.tinkercad.com/things/8JBgGh1vj1C/editel
 
 # 📡 Sensor Infravermelho com Arduino
 
