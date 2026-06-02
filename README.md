@@ -1,4 +1,4 @@
-![Foto ESP8266 V2](https://github.com/Victor-Jorge/aprendendo-sensor-ir/imagens/)
+![Foto Esquematico arduino e sensor IR](https://github.com/Victor-Jorge/aprendendo-sensor-ir/blob/main/imagens/Esquema_arduino_sensor_IR.png))
 
 # 📡 Sensor Infravermelho com Arduino
 
