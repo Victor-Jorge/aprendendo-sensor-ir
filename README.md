@@ -1,3 +1,5 @@
+![Foto ESP8266 V2](https://github.com/Victor-Jorge/aprendendo-sensor-ir/imagens/)
+
 # 📡 Sensor Infravermelho com Arduino
 
 Projeto de controle de LED via controle remoto infravermelho utilizando a biblioteca **IRremote** e Arduino.
